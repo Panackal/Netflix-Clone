@@ -102,5 +102,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - ❤️ [Netflix](https://www.netflix.com/) for inspiring the design.  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder-thank-you.png" alt="Thank You Graphic">
+  <img src="Screenshot 2024-12-06 205234.png" alt="Thank You Graphic">
 </p>
