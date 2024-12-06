@@ -45,18 +45,9 @@ This project is a Netflix clone created to replicate the look and feel of the po
    npm install  
    ```  
 
-4. Set up Firebase and TMDb API keys:  
-   - Create a `.env` file in the root directory and add:  
-     ```env  
-     REACT_APP_API_KEY=<Your TMDb API Key>  
-     REACT_APP_FIREBASE_API_KEY=<Your Firebase API Key>  
-     REACT_APP_AUTH_DOMAIN=<Your Firebase Auth Domain>  
-     REACT_APP_PROJECT_ID=<Your Firebase Project ID>  
-     ```  
-
-5. Start the development server:  
+4. Start the development server:  
    ```bash  
-   npm start  
+   npm run dev  
    ```  
 
 <p align="center">
