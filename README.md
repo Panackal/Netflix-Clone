@@ -4,7 +4,7 @@
 A Netflix-inspired web application built with React and Firebase, showcasing dynamic content fetching, user authentication, and a sleek user interface.  
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/placeholder-image.jpg](https://github.com/Panackal/Netflix-Clone/blob/main/Screenshot%202024-12-06%20205130.png)" alt="Netflix Clone Screenshot" width="800">
+  <img src="Screenshot 2024-12-06 205130.png" alt="Netflix Clone Screenshot" width="800">
 </p>  
 
 ---
