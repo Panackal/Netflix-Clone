@@ -80,3 +80,7 @@
     font-weight: 500;
     cursor: pointer;
 }
+input:hover{
+    border: 2px solid red;
+    border-style: dotted;
+}
